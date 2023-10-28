@@ -1,4 +1,4 @@
 # HarryTechCraft
-This is git resposit
+This is git repository
 <br>
 this is demo repository
